@@ -37,3 +37,5 @@ If you'd like, I can also scaffold a simple Node.js server setup using these pac
 
 Ai ingest and core backend
 
+register a EMAIL_USER
+sucess emails :=> user should be in the db
