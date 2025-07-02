@@ -1,0 +1,22 @@
+# Dependency directories
+/node_modules
+
+# Optional logs
+logs
+*.log
+npm-debug.log*
+
+# dotenv environment variables
+.env
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Production build
+/dist
+/build
+
+# IDE specific files
+.vscode/
+.idea/
